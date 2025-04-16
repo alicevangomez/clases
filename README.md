@@ -1,2 +1,2 @@
 # clases
-Ejercicios prácticos 
+Ejercicios prácticos en Python
